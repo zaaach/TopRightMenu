@@ -61,7 +61,7 @@ mTopRightMenu
         .setOnMenuItemClickListener(new TopRightMenu.OnMenuItemClickListener() {
               @Override
               public void onMenuItemClick(int position) {
-                  Toast.makeText(MainActivity.this, "点击菜单:" + position, 			Toast.LENGTH_SHORT).show();
+                  Toast.makeText(MainActivity.this, "点击菜单:" + position, 	Toast.LENGTH_SHORT).show();
               }
         })
         .showAsDropDown(moreBtn, -225, 0);	//带偏移量
