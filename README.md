@@ -4,7 +4,7 @@
 
 类似手机QQ界面右上角的弹出菜单，使用`recyclerview`和`popupwindow`封装了一下.
 
-废话不多说（也没有...）先看效果图： 
+废话不多说，先看效果图： 
 
 # Gif
 
@@ -68,7 +68,7 @@ mTopRightMenu
 //      		.showAsDropDown(moreBtn)
 ```
 
-OK, enjoy it !
+OK, 拿去玩耍 ~
 
 # Ad
 我的[动漫礼品淘宝店]( https://shop238932691.taobao.com/) ，希望亲能收藏下(单)：
