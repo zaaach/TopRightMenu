@@ -69,8 +69,3 @@ mTopRightMenu
 ```
 
 OK, 拿去玩耍 ~
-
-# Ad
-我的[动漫礼品淘宝店]( https://shop238932691.taobao.com/) ，希望亲能收藏下(单)：
-
-![二维码](https://img.alicdn.com/imgextra/i1/769720206/TB2AnBVar0kpuFjy0FjXXcBbVXa_!!769720206.png)
