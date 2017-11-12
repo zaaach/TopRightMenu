@@ -21,7 +21,7 @@
 Gradle:
 
 ```groovy
-compile 'com.zaaach:toprightmenu:1.0'
+compile 'com.zaaach:toprightmenu:1.1.2'
 ```
 
 or Maven:
@@ -30,7 +30,7 @@ or Maven:
 <dependency>
   <groupId>com.zaaach</groupId>
   <artifactId>toprightmenu</artifactId>
-  <version>1.0</version>
+  <version>1.1.2</version>
   <type>pom</type>
 </dependency>
 ```
@@ -57,7 +57,7 @@ mTopRightMenu
         .setAnimationStyle(R.style.TRM_ANIM_STYLE)
         .addMenuList(menuItems)
         .addMenuItem(new MenuItem(R.mipmap.facetoface, "面对面快传"))
-        .addMenuItem(new MenuItem(R.mipmap.pay, "付款"))
+        .addMenuItem(new MenuItem("id", R.mipmap.pay, "付款"))
         .setOnMenuItemClickListener(new TopRightMenu.OnMenuItemClickListener() {
               @Override
               public void onMenuItemClick(int position) {
