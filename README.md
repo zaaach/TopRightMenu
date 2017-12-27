@@ -69,3 +69,8 @@ mTopRightMenu
 ```
 
 OK, 拿去玩耍 ~
+
+# 领红包啦
+领完红包再继续敲代码(#^.^#)
+
+![image](https://github.com/zaaach/TopRightMenu/raw/master/art/1514356638768.jpg)
